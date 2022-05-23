@@ -79,7 +79,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 ## Links
-![Screenshot](./assets/Capture.PNG)
+* ![Screenshot](./assets/Capture.PNG)
 * [Employee-Tracker Demo](https://drive.google.com/file/d/1rcfCHptBKtqRUgOlb01CjOCxLFNIH47m/view)
 
 ## Questions
